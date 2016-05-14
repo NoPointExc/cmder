@@ -1,0 +1,78 @@
+cd cmder\
+cd vendor\
+vi init.bat 
+vim init.bat 
+cd config\
+vi user-startup.cmd 
+vim user-startup.cmd 
+cd 
+cd ~
+ssh-copy-id yang@10.239.92.50
+ls
+cd ..
+dir
+ls -la | grep wc
+vi t420.pem 
+vi
+vim
+vim t420.pem 
+Add correct host key in /c/Users/jiayangs/.ssh/known_hosts to get rid of this message.
+cd ../../..
+cd Users\jiayangs\.ssh\
+vi id_rsa.pub 
+cat id_rsa.pub 
+cat known_hosts 
+ssh yang@10.239.92.50
+ssh -o StrictHostKeychecking=no yang@10.239.92.50
+ks
+ls -al
+touch config
+vi config 
+ssh
+ssh workstation
+ssh work
+vi known_hosts 
+vim known_hosts 
+vim config 
+cat config
+cd Desktop\
+cd notes\
+git status
+git pull
+cd ..
+ls
+ssh ws
+cd ..
+ssh ws
+cd .ssh\
+vim config 
+ls
+ssh yang
+ssh yang
+ls
+java -version
+ssh yang
+ls
+ssh yang
+ssh yang
+java -version
+ssh yang
+git clone https://android.googlesource.com/platform/system/vold
+cd Downloads\
+cd kindlegen_win32_v2_9\
+kindlegen.exe
+kindlegen ..\Android_Security_Internals_An_In-Depth_Guide_to_Androids_Security_Architecture.epub  -c0 -o Android_Security_Internals.mobi
+cd ..
+vi Android_Security_Internals.mobi 
+vim Android_Security_Internals.mobi 
+ls
+vi Android_Security_Internals_An_In-Depth_Guide_to_Androids_Security_Architecture.epub 
+vim Android_Security_Internals_An_In-Depth_Guide_to_Androids_Security_Architecture.epub 
+java -version
+cd Desktop\
+ls
+ssh yang
+java -version
+ssh yang
+ssh ws
+ssh yang
